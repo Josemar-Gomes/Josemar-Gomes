@@ -81,3 +81,13 @@ Atuo no desenvolvimento de APIs, arquitetura de sistemas, bancos de dados e ambi
 - Foco em performance e escalabilidade
 - Aprendizado contínuo e adaptação rápida a novas tecnologias
 
+## 🔥 **Meus Projetos Destaque**
+
+<div align="center">
+  
+| Projeto | Descrição | Tech Stack |
+|---------|-----------|------------|
+| **[Projeto React E-commerce](https://github.com/josemargomes/projeto-react-ecommerce)** | Loja online completa com carrinho e pagamento. | React, Node.js, MongoDB |
+| **[API Node.js RESTful](https://github.com/josemargomes/api-node-rest)** | API robusta com autenticação JWT. | Node.js, Express, PostgreSQL |
+| **[Dashboard Next.js](https://github.com/josemargomes/dashboard-next)** | Dashboard admin com gráficos interativos. | Next.js, TypeScript, Chart.js 
+
