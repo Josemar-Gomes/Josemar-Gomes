@@ -1,19 +1,5 @@
 # 👋 Olá, eu sou **Josemar Gomes**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=34C759&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Apaixonado+por+React+JS;Entusiasta+de+Node.js;Contribuidor+Open+Source" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemargomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Josemar Gomes stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemargomes&layout=compact&langs_count=7&theme=radical" alt="Josemar Gomes top langs" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josemargomes&theme=radical" alt="Josemar Gomes streak" />
-</div>
-
 ## 🛠️ **Tecnologias que eu uso**
 
 <div align="center">
