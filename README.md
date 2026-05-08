@@ -15,9 +15,6 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 <a href="https://www.linkedin.com/in/josemargm/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
 </a>
-<a href="https://www.instagram.com/nishimoto_adriano/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-</a>
 
 </div>
 
