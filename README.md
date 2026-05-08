@@ -1,60 +1,88 @@
-# 👋 Olá, eu sou **Josemar Gomes**
+<img src='https://capsule-render.vercel.app/api?type=waving&color=0CC3F8FF&height=120§ion=header' width='100%'/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+FullStack)](https://git.io/typing-svg)
+
+## Sobre mim
+
+Sou Josemar Gomes, Desenvolvedor FullStack focado em criar soluções robustas e escaláveis. Atuo no desenvolvimento de APIs, arquitetura de sistemas e otimização de performance.
+
+Recentemente, venho ampliando minhas habilidades no uso de **IA aplicada ao desenvolvimento**, incluindo ferramentas como Claude Code para acelerar entregas e aumentar produtividade.
+
+Tenho forte interesse em tecnologia, inovação e em transformar problemas complexos em soluções eficientes.
 
 <div align="center">
-Sou natural do Rio Grande do Norte e tenho mais de 8 anos de experiência no Exército Brasileiro, atuando com gestão administrativa, análise de dados, controle de estoque e uso de sistemas como SIAFI. Atualmente, estou em transição para a área da tecnologia, estudando Desenvolvimento Full Stack com foco em Back-End utilizando JavaScript, C#, Python, Java, Node.js, PostgreSQL, Prisma e Docker.Sou apaixonado por tecnologia e busco minha primeira oportunidade como Desenvolvedor Back-End Júnior, trazendo comigo disciplina, organização, foco e determinação.
-</div>
 
-## 🛠️ **Tecnologias que eu uso**
-
-<div align="center">
-  
-### **Frontend**
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  
-### **Backend**
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#]file:///C:/Downloads/C_1778248039206.svg
-  
-### **Banco de Dados**
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-### **Ferramentas**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-</div>
-
-## 🔥 **Meus Projetos Destaque**
-
-<div align="center">
-  
-| Projeto | Descrição | Tech Stack |
-|---------|-----------|------------|
-| **[Projeto React E-commerce](https://github.com/josemargomes/projeto-react-ecommerce)** | Loja online completa com carrinho e pagamento. | React, Node.js, MongoDB |
-| **[API Node.js RESTful](https://github.com/josemargomes/api-node-rest)** | API robusta com autenticação JWT. | Node.js, Express, PostgreSQL |
-| **[Dashboard Next.js](https://github.com/josemargomes/dashboard-next)** | Dashboard admin com gráficos interativos. | Next.js, TypeScript, Chart.js |
+<a href="https://www.linkedin.com/in/adriano-nishimoto/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+</a>
+<a href="https://www.instagram.com/nishimoto_adriano/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+</a>
 
 </div>
 
-## 📫 **Entre em Contato**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Áreas de Atuação
+
+- Backend Development (APIs, Arquitetura, Microsserviços)
+- Desenvolvimento FullStack
+- Analise de dados
+- Integração de Sistemas
+- Uso de IA no desenvolvimento
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 Competências
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/josemar-gomes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/josemargomes">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:josemar.gomes@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://josemargomes.com.br">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+
+| Área              | Habilidades                                                  |
+|-------------------|--------------------------------------------------------------|
+| **Frontend**       | Javascript, React                                           |
+| **Backend**        | C#, .NET, Node.js, APIs RESTful, Python                     |
+| **Banco de Dados** | MySQL, PostgreSQL, MongoDB                                  |
+| **Arquitetura**    | Microsserviços, Design de Sistemas                          |
+| **Outras**         | Git, Docker, Integração de Sistemas, IA (Claude Code)       |
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=josemargomes&style=flat-square&color=blue" alt="Visitor Count" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Feito%20com%20❤️%20para%20o%20mundo-FF0000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Made with Love" />
+
+<img src="https://skillicons.dev/icons?i=js" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+<img src="https://skillicons.dev/icons?i=react" height="40" />
+<img src="https://skillicons.dev/icons?i=cs" height="40" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="40" />
+<img src="https://skillicons.dev/icons?i=py" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
+<img src="https://skillicons.dev/icons?i=git" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ Diferenciais
+
+- Uso prático de IA (Claude Code) no ciclo de desenvolvimento
+- Foco em performance e escalabilidade
+- Aprendizado contínuo e adaptação rápida a novas tecnologias
+
