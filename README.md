@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=0CC3F8FF&height=120§ion=header' width='100%'/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Josemar+Gomes;Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 ## Sobre mim
 
