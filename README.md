@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou **Josemar Gomes**
 
+<div align="center">
+Sou natural do Rio Grande do Norte e tenho mais de 8 anos de experiência no Exército Brasileiro, atuando com gestão administrativa, análise de dados, controle de estoque e uso de sistemas como SIAFI. Atualmente, estou em transição para a área da tecnologia, estudando Desenvolvimento Full Stack com foco em Back-End utilizando JavaScript, C#, Python, Java, Node.js, PostgreSQL, Prisma e Docker.Sou apaixonado por tecnologia e busco minha primeira oportunidade como Desenvolvedor Back-End Júnior, trazendo comigo disciplina, organização, foco e determinação.
+</div>
+
 ## 🛠️ **Tecnologias que eu uso**
 
 <div align="center">
