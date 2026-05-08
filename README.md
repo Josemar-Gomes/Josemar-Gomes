@@ -4,7 +4,8 @@
 
 ## Sobre mim
 
-Sou Josemar Gomes, Desenvolvedor FullStack focado em criar soluções robustas e escaláveis. Atuo no desenvolvimento de APIs, arquitetura de sistemas e otimização de performance.
+Sou Josemar Gomes, Desenvolvedor FullStack focado em criar soluções robustas e escaláveis 
+Atuo no desenvolvimento de APIs, arquitetura de sistemas e otimização de performance.
 
 Recentemente, venho ampliando minhas habilidades no uso de **IA aplicada ao desenvolvimento**, incluindo ferramentas como Claude Code para acelerar entregas e aumentar produtividade.
 
