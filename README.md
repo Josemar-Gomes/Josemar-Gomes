@@ -91,3 +91,21 @@ Atuo no desenvolvimento de APIs, arquitetura de sistemas, bancos de dados e ambi
 | **[API Node.js RESTful](https://github.com/josemargomes/api-node-rest)** | API robusta com autenticação JWT. | Node.js, Express, PostgreSQL |
 | **[Dashboard Next.js](https://github.com/josemargomes/dashboard-next)** | Dashboard admin com gráficos interativos. | Next.js, TypeScript, Chart.js 
 
+### 📌 **Projetos Especiais**
+
+- **Hotel for Dogs — Full Stack + Docker + Prisma**  
+  Sistema completo de gerenciamento de pets, quartos e reservas.  
+  🔗 Repositório: https://github.com/josemargomes/NOME_DO_REPO
+
+- **API REST com Node.js + PostgreSQL**  
+  CRUD completo, autenticação JWT, arquitetura organizada.  
+  🔗 Repositório: https://github.com/josemargomes/NOME_DO_REPO
+
+- **Pipeline de Análise de Dados (Python)**  
+  Coleta, limpeza, análise e visualização.  
+  🔗 Repositório: https://github.com/josemargomes/NOME_DO_REPO
+
+- **Scripts de Automação (Node/Python)**  
+  Automatização de tarefas repetitivas e manipulação de arquivos.  
+  🔗 Repositório: https://github.com/josemargomes/NOME_DO_REPO
+
